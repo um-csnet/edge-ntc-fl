@@ -3,23 +3,23 @@ Paper: Leveraging Federated Learning and XAI for Private and Lightweight Edge Tr
 
 # Deployed on:
 ## FL Server
-*HP Pavilion 14
-*Ryzen 5 (8 Core CPU)
-*16GB RAM
-*100 GB SSD Storage
+* HP Pavilion 14
+* Ryzen 5 (8 Core CPU)
+* 16GB RAM
+* 100 GB SSD Storage
 
 ## FL Client
-*Nvidia Jetson Nano
-*Quad-core ARM A57 CPU
-*128-core Maxwell GPU
-*4 GB RAM
-*64 GB eMMC Storage
+* Nvidia Jetson Nano
+* Quad-core ARM A57 CPU
+* 128-core Maxwell GPU
+* 4 GB RAM
+* 64 GB eMMC Storage
 
 ## Software
-*Tensorflow v2.6.0
-*Flower 1.14.0
-*Keras v2.11.0
-*DeepSHAP v0.41.0
+* Tensorflow v2.6.0
+* Flower 1.14.0
+* Keras v2.11.0
+* DeepSHAP v0.41.0
 
 ## Deep Learning Technique
 1. MLP
